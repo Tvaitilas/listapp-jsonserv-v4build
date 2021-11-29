@@ -1,0 +1,97 @@
+{
+  "tasks": [
+    {
+      "title": "31312",
+      "completed": false,
+      "author": "321312",
+      "priority": "low",
+      "user_id": 1,
+      "id": 1
+    },
+    {
+      "title": "Uzduotis vartotojas 1",
+      "completed": false,
+      "author": "Test",
+      "priority": "high",
+      "user_id": "1",
+      "id": 2
+    },
+    {
+      "title": "Uzduotis vartotojas 2",
+      "completed": false,
+      "author": "labas",
+      "priority": "low",
+      "user_id": "2",
+      "id": 3
+    },
+    {
+      "title": "Uzduotis vartotojas 3",
+      "completed": false,
+      "author": "labas",
+      "priority": "low",
+      "user_id": "3",
+      "id": 4
+    },
+    {
+      "title": "Uzduotis Vartotojas 0",
+      "completed": false,
+      "author": "Null",
+      "priority": "high",
+      "user_id": "0",
+      "id": 5
+    },
+    {
+      "title": "No User",
+      "completed": false,
+      "author": "no",
+      "priority": "high",
+      "user_id": 0,
+      "id": 6
+    },
+    {
+      "title": "Labas",
+      "completed": false,
+      "author": "123",
+      "priority": "high",
+      "user_id": 0,
+      "id": 7
+    },
+    {
+      "title": "Uzduotis vartotoju testas",
+      "completed": false,
+      "author": "Tadas",
+      "priority": "high",
+      "user_id": "4",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Test123",
+      "email": "labas@gmail.com"
+    },
+    {
+      "name": "User 2",
+      "email": "user2@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "User 3",
+      "email": "user3@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Tadas",
+      "email": "tadas@mail.com",
+      "id": 4
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Project 1",
+      "logo": "#"
+    }
+  ]
+}
